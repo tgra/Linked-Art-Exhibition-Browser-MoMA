@@ -13,7 +13,7 @@ The dataset consists of records describing art exhibitions carried out by MoMA a
 The dataset uses the Linked Art semantic data model to describe exhibitions and is serialized as JSON_LD.
 
 ## Web site creation
-The web site has been created as static files using a React/Next.js web app, available at https://github.com/tgra/Linked-Art-Exhibition-Browser.
+The web site has been created as static HTML files using the Linked Art Exhibition Browser web app, available at https://github.com/tgra/Linked-Art-Exhibition-Browser.
 
 ## How to view web site
 
